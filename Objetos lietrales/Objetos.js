@@ -31,4 +31,4 @@ if (fraccion.denominador1 == fraccion.denominador2) {
 pc1 = fraccion.numerador1 * fraccion.numerador2
 pc2 = fraccion.denominador1 * fraccion.denominador2
 console.log(`total-multi: ${pc1}/${pc2}`)
-    //Division
+    
